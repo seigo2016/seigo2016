@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/seigo2016/seigo2016/master/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/seigo2016/seigo2016/master/profile-summary-card-output/kacho_ga/4-productive-time.svg)
-```
-
-    
